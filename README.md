@@ -1,4 +1,7 @@
-### Hi there 👋
+### Cheers!
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=VoltanFr&show_icons=true&theme=radical&include_all_commits=true&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoltanFr&layout=compact)
 
 <!--
 **VoltanFr/VoltanFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
