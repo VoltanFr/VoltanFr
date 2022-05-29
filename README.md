@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoltanFr&layout=compact)
 
-- ⚡ Fun fact: The generated stats tell that some of my code is in [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk), which is a lie: I haven't written a code of Smalltalk since the eighties. Good memories!
+- ⚡ Fun fact: The generated stats tell that some of my code is in [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk), which is a lie: I haven't written a line of Smalltalk since the eighties. Good memories, though!
 
 <!--
 **VoltanFr/VoltanFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
